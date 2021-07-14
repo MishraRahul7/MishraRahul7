@@ -3,12 +3,6 @@
     <p style="font-size: 1.7rem; ">"When everything seems to be going against you, remember the airplane takes off against the wind, not with it"</p>
     <span margin-left="80%" font-size="1.2rem" >-Henry Ford</span>
 </div> -->
-<p align="right" >
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mishra-064544117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mishra-064544117/" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/8937579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8937579" height="20" width="30" /></a>
-</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mishrarahul7&label=Profile%20views&color=0e75b6&style=flat" alt="mishrarahul7" /> </p>
-
 <h1 align="left">Hi 👋, I'm Rahul Mishra</h1>
 <h3 align="left">I'm a full-stack developer specialised in frontend and backend development for web apps</h3>
 
@@ -82,6 +76,15 @@
     </span>
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrarahul7&show_icons=true&locale=en&layout=compact" alt="mishrarahul7" /></p>
+<br/>
+<br/>
+<br/>
+<p align="right" >
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-mishra-064544117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mishra-064544117/" height="20" width="30" /></a>
+<a href="https://stackoverflow.com/users/8937579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8937579" height="20" width="30" /></a>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mishrarahul7&label=Profile%20views&color=0e75b6&style=flat" alt="mishrarahul7" /> </p>
+
 
 
 
